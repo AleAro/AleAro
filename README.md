@@ -3,10 +3,10 @@
 I am a Software Engineer based in Mexico City. I focus on software architecture, cloud-native systems, and exploring the intersection of data and engineering.
 
 ### More about me
-* 🎓 B.S. in Computer Science at **Tecnológico de Monterrey** (Exchange at **TUM Munich**)
-* 🇩🇪 **Deutsches Internationales Abitur (DIA)** - German IB from Colegio Alemán Alexander von Humboldt
-* 🏆 Hackathon winner (1st Place Neo4j Hackathon)
-* 👨‍💻 I also enjoy **Jiu-Jitsu**, **music**, and finding a rhythm through **exercise**
+* B.S. in Computer Science at **Tecnológico de Monterrey** (Exchange at **TUM Munich**)
+* **Deutsches Internationales Abitur (DIA)** - German IB from Colegio Alemán Alexander von Humboldt
+* Hackathon winner (1st Place Neo4j Hackathon)
+* I also enjoy **Jiu-Jitsu**, **music**, and finding a rhythm through **exercise**
 
 ### Tech Stack
 
