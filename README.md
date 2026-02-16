@@ -44,7 +44,7 @@ I am a Software Engineer based in Mexico City. I focus on software architecture,
 
 ### Professional Knowledge
 * **Neo4j Certified Professional**
-* **AWS Cloud Practitioner Essentials**
+* **AWS Cloud Practitioner**
 * **Microsoft Azure Fundamentals**
 * **Docker Foundations Professional**
 * **Software Architecture Foundations**
