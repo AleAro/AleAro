@@ -1,6 +1,6 @@
 # Hello! I'm Alejandro Arouesty 👨‍💻
 
-I am a Software Engineer based in Mexico City. I focus on software architecture, cloud native systems, and exploring the intersection of data and engineering
+I am a Software Engineer based in Mexico City. I focus on software architecture, cloud-native systems, and exploring the intersection of data and engineering.
 
 ### 🌱 More about me
 * 🎓 B.S. in Computer Science at **Tecnológico de Monterrey** (Exchange at **TUM Munich**)
@@ -26,9 +26,11 @@ I am a Software Engineer based in Mexico City. I focus on software architecture,
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
 </p>
 
 **Frameworks & Tools**
@@ -40,7 +42,7 @@ I am a Software Engineer based in Mexico City. I focus on software architecture,
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
 </p>
 
-### Professional Knowledge
+### 📜 Professional Knowledge
 * **Neo4j Certified Professional**
 * **AWS Cloud Practitioner Essentials**
 * **Microsoft Azure Fundamentals**
