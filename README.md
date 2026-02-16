@@ -6,7 +6,7 @@ I am a Software Engineer based in Mexico City. I focus on software architecture,
 * 🎓 B.S. in Computer Science at **Tecnológico de Monterrey** (Exchange at **TUM Munich**)
 * 🇩🇪 **Deutsches Internationales Abitur (DIA)** - German IB from Colegio Alemán Alexander von Humboldt
 * 🏆 Hackathon winner (1st Place Neo4j Hackathon)
-* 👨‍💻 I enjoy **Jiu-Jitsu**, **music**, and finding a rhythm through **exercise**
+* 👨‍💻 I also enjoy **Jiu-Jitsu**, **music**, and finding a rhythm through **exercise**
 
 ### 🛠 Tech Stack
 
