@@ -1,4 +1,4 @@
-# Hello! I'm Alejandro Arouesty 👨‍💻
+# Hello! I'm Alejandro Arouesty
 
 I am a Software Engineer based in Mexico City. I focus on software architecture, cloud-native systems, and exploring the intersection of data and engineering.
 
